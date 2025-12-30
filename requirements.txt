@@ -8,7 +8,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
-yt-dlp>=2024.1.1
+yt-dlp>=2025.1.1
 
 # System requirement (install manually if missing)
 # FFmpeg must be installed separately for audio conversion
